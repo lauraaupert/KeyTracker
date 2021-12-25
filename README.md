@@ -27,6 +27,8 @@ Open and press a key!
 
 npm test
 
+<img width="1291" alt="Screen Shot 2021-12-25 at 10 10 36 PM" src="https://user-images.githubusercontent.com/73617474/147393672-27fb3b3d-438b-416d-9ff4-f5ef0c3e80a7.png">
+
 ## QUESTIONS
 
 For additional questions, please get in touch:  
