@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KeyTracker/static/css/main.86d97108.css",
+    "main.js": "/KeyTracker/static/js/main.29fd758d.js",
+    "static/js/787.d16ca23f.chunk.js": "/KeyTracker/static/js/787.d16ca23f.chunk.js",
+    "index.html": "/KeyTracker/index.html",
+    "main.86d97108.css.map": "/KeyTracker/static/css/main.86d97108.css.map",
+    "main.29fd758d.js.map": "/KeyTracker/static/js/main.29fd758d.js.map",
+    "787.d16ca23f.chunk.js.map": "/KeyTracker/static/js/787.d16ca23f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d97108.css",
+    "static/js/main.29fd758d.js"
+  ]
+}
