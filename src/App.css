@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+.fun {
+  font-family: "Shizuru", cursive;
+}
+/* .serious {
+  font-family: "Josefin Sans", sans-serif;
+} */
+.serious {
+  font-family: "Amatic SC", cursive;
+}
+.dark {
+  background-color: rgb(29, 28, 28);
+  color: white;
+}
+.light {
+  background-color: lightgray;
+  color: slategray;
+}
+
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Rock 3D', cursive;
+font-family: 'Shizuru', cursive; */

@@ -1,0 +1,115 @@
+.btn {
+  font-size: 16px !important;
+  width: 120px;
+  margin: 10px;
+  border: 2px solid;
+  font-weight: bolder;
+  transition: box-shadow 0.8s !important;
+}
+.dark .btn {
+  background-color: slategray !important;
+  border-color: darkgrey !important;
+}
+.light .btn {
+  background-color: whitesmoke !important;
+  border-color: darkgrey !important;
+  color: slategrey !important;
+}
+.btn:focus {
+  box-shadow: none !important;
+}
+.btn:hover {
+  box-shadow: 10px 5px 5px darkgray;
+}
+.button-div {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  margin-top: 10px;
+}
+.card {
+  width: 100%;
+  margin: 10px;
+  transition: box-shadow 1s;
+  cursor: pointer;
+}
+.card:hover {
+  box-shadow: 10px 5px 5px darkgray;
+}
+
+.dark .card {
+  border-color: darkgrey;
+  color: lightgrey;
+  background-color: rgb(63, 70, 78);
+}
+.light .card {
+  border-color: darkslategray;
+}
+.card-column {
+  justify-content: center;
+}
+.card-row {
+  width: 100%;
+  position: absolute;
+  bottom: 15vh;
+  display: flex;
+  justify-content: space-between;
+}
+.card-title {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  font-weight: bolder !important;
+  font-size: 32px !important;
+}
+.card-header {
+  font-size: 20px;
+  line-height: 20px;
+  padding-top: 3px !important;
+  height: 30px;
+}
+.dark .card-header {
+  background-color: rgb(58, 60, 61);
+}
+.light .card-header {
+  background-color: rgb(237, 237, 243);
+}
+.tooltip-inner {
+  background-color: grey !important;
+}
+#copy > .tooltip-arrow::before {
+  border-right-color: grey !important;
+}
+.selected {
+  font-size: 400px;
+  font-weight: bold;
+}
+.dark .selected {
+  color: slategray;
+}
+.selected-row {
+  width: 100vw;
+}
+.start {
+  font-size: 40px;
+  /* width: 80vw; */
+  margin-top: 0px !important;
+  padding-top: 40vh !important;
+}
+
+@media screen and (max-width: 550px) {
+  .selected {
+    font-size: 70vw;
+    height: 40vh;
+    position: relative;
+    top: -50px;
+  }
+  .button-div {
+    width: 100%;
+  }
+}
+
+@media screen and (max-height: 500px) {
+  .selected {
+    display: none;
+  }
+}
