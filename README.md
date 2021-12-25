@@ -13,6 +13,8 @@ I got tired of looking up key codes on Google so I made myself a simple helper u
 [Testing](#TESTING)  
 [License](#LICENSE)
 
+<img width="1014" alt="Screen Shot 2021-12-25 at 10 07 26 PM" src="https://user-images.githubusercontent.com/73617474/147393638-97acaed2-5b89-4633-b8dc-606326ccbbd6.png">
+
 ## INSTALLATION
 
 npm install
